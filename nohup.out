@@ -1648,3 +1648,41 @@ Quit the server with CONTROL-C.
 [14/Oct/2016 04:34:45]"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
 [14/Oct/2016 04:34:45]"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
 [14/Oct/2016 04:34:46]"GET /static/web/images/touxiang.jpg HTTP/1.1" 304 0
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 14, 2016 - 04:32:32
+Django version 1.8.1, using settings 'wechatspider.settings'
+Starting development server at http://0.0.0.0:8001/
+Quit the server with CONTROL-C.
+{u'proxy_status': u'\u5f02\u5e38', u'wechats': <Page 1 of 3>, u'params': <QueryDict: {}>, u'antispider': '2', u'downloader': 50, u'active_nav': u'wechats'}
+{u'proxy_status': u'\u5f02\u5e38', u'wechats': <Page 1 of 3>, u'params': <QueryDict: {}>, u'antispider': '2', u'downloader': 50, u'active_nav': u'wechats'}
+[14/Oct/2016 06:33:58]"GET /wechat/ HTTP/1.1" 200 62063
+[14/Oct/2016 06:34:00]"GET /wechat/106/topics/ HTTP/1.1" 200 5342
+[14/Oct/2016 06:34:06]"GET /wechat/keywords/ HTTP/1.1" 200 5561
+[14/Oct/2016 06:34:08]"GET /wechat/ HTTP/1.1" 200 62063
+[14/Oct/2016 06:34:09]"GET /wechat/105/topics/ HTTP/1.1" 200 5497
+[14/Oct/2016 06:34:12]"GET /wechat/ HTTP/1.1" 200 62063
+[14/Oct/2016 06:34:14]"GET /wechat/104/topics/ HTTP/1.1" 200 5687
+[14/Oct/2016 06:34:17]"GET /wechat/keywords/ HTTP/1.1" 200 5561
+[14/Oct/2016 06:34:19]"GET /wechat/topic/ HTTP/1.1" 200 66514
+[14/Oct/2016 06:34:23]"GET /wechat/keywords/ HTTP/1.1" 200 5561
+[14/Oct/2016 06:34:25]"GET /wechat/ HTTP/1.1" 200 62063
+[14/Oct/2016 06:34:36]"GET /wechat/topic/ HTTP/1.1" 200 66514
+[14/Oct/2016 06:34:40]"GET /wechat/keywords/ HTTP/1.1" 200 5561
+[14/Oct/2016 06:34:41]"GET /wechat/ HTTP/1.1" 200 62063
+[14/Oct/2016 06:34:43]"GET /wechat/102/topics/ HTTP/1.1" 200 5633
+[14/Oct/2016 06:34:45]"GET /wechat/102/topics/ HTTP/1.1" 200 5633
+[14/Oct/2016 06:34:45]"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+[14/Oct/2016 06:34:45]"GET /static/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 0
+[14/Oct/2016 06:34:45]"GET /static/web/css/base.css HTTP/1.1" 304 0
+[14/Oct/2016 06:34:45]"GET /static/jquery/jquery-1.11.3.min.js HTTP/1.1" 304 0
+[14/Oct/2016 06:34:45]"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+[14/Oct/2016 06:34:45]"GET /static/web/images/touxiang.jpg HTTP/1.1" 304 0
+[14/Oct/2016 06:34:48]"GET /wechat/102/topics/ HTTP/1.1" 200 5633
+[14/Oct/2016 06:34:48]"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+[14/Oct/2016 06:34:48]"GET /static/web/css/base.css HTTP/1.1" 304 0
+[14/Oct/2016 06:34:48]"GET /static/jquery/jquery-1.11.3.min.js HTTP/1.1" 304 0
+[14/Oct/2016 06:34:48]"GET /static/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 0
+[14/Oct/2016 06:34:48]"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+[14/Oct/2016 06:34:48]"GET /static/web/images/touxiang.jpg HTTP/1.1" 304 0

@@ -26,7 +26,7 @@
               <td>{{ item.id}}</td>
               <td><img src="{{ item.avatar| default:'/static/web/images/touxiang.jpg'}}" class="topic-avatar"> </td>
               <td><a target="_blank" href="{% url 'wechat.topic_detail' item.id %}">{{ item.title}}</a></td>
-              <td><a target="_blank" href="{{ item.url }}"><i class="fa fa-weixin fa-lg"></i></a></td>
+              <td><a target="_blank" href="{{ item.url_perm }}"><i class="fa fa-weixin fa-lg"></i></a></td>
               <td><a target="_blank" href="{% url 'wechat.wechat_topics' item.wechat__id %}">{{ item.wechat__name}}</a></td>
               <td>{{ item.publish_time}}</td>
               <td>{{ item.available }}</td>
